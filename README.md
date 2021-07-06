@@ -1,3 +1,6 @@
 # Basic classification: Classify images of clothing
 我在学习tensorflow时写的代码
 这是第一课《对服装图像进行分类》
+picture_classify.py是模型训练文件
+My_first_model.h5是使用picture_classify.py训练出来的模型
+picture_classify_test.py是模型使用文件，它使用My_first_model.h5来预测图片的类别
